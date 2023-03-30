@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Shop to Door](https://github.com/mohdanss/shoptodoor)
 
-- 🌱 I’m currently learning **Web developWeb Development, Cyber Security, and Arduino work.**
+- 🌱 I’m currently learning **Web Development, Cyber Security, and Arduino work.**
 
 - 👨‍💻 All of my projects are available at [www.innovaxel.com](www.innovaxel.com)
 

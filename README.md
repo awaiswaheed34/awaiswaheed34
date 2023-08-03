@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaiswaheed34" alt="awaiswaheed34" /></a> </p>
 
-- 🔭 I’m currently working on [Shop to Door](https://github.com/mohdanss/shoptodoor)
+- 🔭 I’m currently working on [CONFIDENTIAL]
 
-- 🌱 I’m currently learning **Web Development, Cyber Security, and Arduino work.**
+- 🌱 I’m currently working  **Web Development, Cyber Security, and Arduino work**
 
 - 👨‍💻 All of my projects are available at [www.innovaxel.com](www.innovaxel.com)
 

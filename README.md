@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Awais Waheed</h1>
-<h3 align="center">Code Geek & Cybersecurity Enthusiast</h3>
+<h3 align="center">A Software Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaiswaheed34&label=Profile%20views&color=0e75b6&style=flat" alt="awaiswaheed34" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaiswaheed34" alt="awaiswaheed34" /></a> </p>
 
-- 🔭 I’m currently working on [CONFIDENTIAL]
+- 🔭 I’m currently working on solving real world problems.
 
-- 🌱 I’m currently working  **Web Development, Cyber Security, and Arduino work**
+- 🌱 I’m currently working  **Web Development, Mobile Development, AI/ML**
 
-- 👨‍💻 All of my projects are available at [www.innovaxel.com](www.innovaxel.com)
-
-- 💬 Ask me about **React, React Native , Django , Node.js , MongoDB , SQL**
+- 💬 Ask me about **React, React Native , Django , AWS, Node.js , MongoDB , SQL**
 
 - 📫 How to reach me **awaiswaheed134@gmail.com**
 

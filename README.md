@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, React Native , Django , AWS, Node.js , MongoDB , SQL**
 
-- 📫 How to reach me **awaiswaheed134@gmail.com**
+- 📫 How to reach me **awaiswaheed134@gmail.com or awais@innovaxel.com**
 
 - ⚡ Fun fact **i also do gaming streaming**
 
